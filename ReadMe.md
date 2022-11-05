@@ -5,4 +5,4 @@ Project Ideas
   - Sentiment analysis on youtube comments
     - pick a channel
   - house price prediction
-  - 
+  
